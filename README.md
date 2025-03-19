@@ -4,6 +4,8 @@
 2) `docker run -d -p 8000:8000 --name nebus nebus_image`
 3) http://localhost:8000/docs
 
+<h3><samp>x-api-key: "<code>secret</code>"</samp></h3>
+
 ---
 Да, можно было прикрутить uv, podman и нормальную геодезическую механику расчёта по прямоугольникам и координатам, но как mvp-продукт, а по факту тестовое - более чем, имхо
 
